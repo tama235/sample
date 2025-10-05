@@ -1,0 +1,15 @@
+
+#stopwatch{
+    width: 480px;
+    height: 540px;
+    background-image:url("stopwatch.png");
+    position:fixed;
+    margin:auto;
+    inset: 0;
+
+}
+#display{}
+#count{}
+#reset{}
+#start{}
+    
